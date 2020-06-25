@@ -1,4 +1,4 @@
-# -Electronic-Medical-Record-EMR-
+# Electronic-Medical-Record (EMR)
 
 < Hyperledger Fabric 1.4 Electronic Medical Record(EMR) Sample Application V1.0 >
 
